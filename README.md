@@ -63,8 +63,6 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### 📫 Let's Connect
 
 Feel free to explore my repositories and connect with me!
-:::
